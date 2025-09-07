@@ -1,0 +1,46 @@
+<svg viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#442A1B" rx="128"/>
+  
+  <!-- ISM Text -->
+  <text
+    x="150"
+    y="250"
+    fill="#D17E1F"
+    fontSize="160"
+    fontFamily="Arial, sans-serif"
+    fontWeight="bold"
+  >
+    ISM
+  </text>
+  
+  <!-- Architectural Structure -->
+  <!-- Base - 3 horizontal lines -->
+  <line x1="200" y1="700" x2="824" y2="700" stroke="#D17E1F" strokeWidth="15"/>
+  <line x1="200" y1="720" x2="824" y2="720" stroke="#D17E1F" strokeWidth="15"/>
+  <line x1="200" y1="740" x2="824" y2="740" stroke="#D17E1F" strokeWidth="15"/>
+  
+  <!-- Grid structure - 2 rows of 5 vertical rectangles -->
+  <!-- First row -->
+  <rect x="250" y="450" width="80" height="200" stroke="#D17E1F" strokeWidth="10" fill="none"/>
+  <rect x="350" y="450" width="80" height="200" stroke="#D17E1F" strokeWidth="10" fill="none"/>
+  <rect x="450" y="450" width="80" height="200" stroke="#D17E1F" strokeWidth="10" fill="none"/>
+  <rect x="550" y="450" width="80" height="200" stroke="#D17E1F" strokeWidth="10" fill="none"/>
+  <rect x="650" y="450" width="80" height="200" stroke="#D17E1F" strokeWidth="10" fill="none"/>
+  
+  <!-- Second row -->
+  <rect x="250" y="350" width="80" height="200" stroke="#D17E1F" strokeWidth="10" fill="none"/>
+  <rect x="350" y="350" width="80" height="200" stroke="#D17E1F" strokeWidth="10" fill="none"/>
+  <rect x="450" y="350" width="80" height="200" stroke="#D17E1F" strokeWidth="10" fill="none"/>
+  <rect x="550" y="350" width="80" height="200" stroke="#D17E1F" strokeWidth="10" fill="none"/>
+  <rect x="650" y="350" width="80" height="200" stroke="#D17E1F" strokeWidth="10" fill="none"/>
+  
+  <!-- Roof - 4 horizontal lines -->
+  <line x1="220" y1="300" x2="804" y2="300" stroke="#D17E1F" strokeWidth="15"/>
+  <line x1="220" y1="320" x2="804" y2="320" stroke="#D17E1F" strokeWidth="15"/>
+  <line x1="220" y1="340" x2="804" y2="340" stroke="#D17E1F" strokeWidth="15"/>
+  <line x1="220" y1="360" x2="804" y2="360" stroke="#D17E1F" strokeWidth="15"/>
+  
+  <!-- Border -->
+  <rect x="20" y="20" width="984" height="984" stroke="#D17E1F" strokeWidth="20" fill="none" rx="108"/>
+</svg>
